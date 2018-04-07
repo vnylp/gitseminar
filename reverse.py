@@ -10,4 +10,8 @@
 a=str(input("Enter a string: "))
 print("Reverse of the string is: ")
 print(a[::-1])
-#a=102
+<<<<<<< HEAD
+#a=101
+=======
+a=14
+>>>>>>> 09fb70ff3dcd454dadab5905bdfbe04406e22076
